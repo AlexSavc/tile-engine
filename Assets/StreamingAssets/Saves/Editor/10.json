@@ -1,0 +1,606 @@
+{
+    "tileData": [
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 0,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 1,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 2,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 3,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 4,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 5,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 6,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 7,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 0,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 0,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 1,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 2,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 3,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 4,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 5,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 6,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 7,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 1,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 0,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 1,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 2,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 3,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 4,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 5,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 6,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 7,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 2,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 0,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 1,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 2,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 3,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 4,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 5,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 6,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 7,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 3,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 0,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 1,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 2,
+            "occupiedType": [ "townHouses" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 3,
+            "occupiedType": [ "townHouses" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 4,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 5,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 6,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 7,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 4,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 0,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 1,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Rock",
+            "XCoord": 5,
+            "YCoord": 2,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Rock",
+            "XCoord": 5,
+            "YCoord": 3,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Rock",
+            "XCoord": 5,
+            "YCoord": 4,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 5,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 6,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 7,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 8,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 5,
+            "YCoord": 9,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 0,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 1,
+            "occupiedType": [ "stoneHouses" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 2,
+            "occupiedType": [ "stoneHouses" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 3,
+            "occupiedType": [ "stoneHouses" ]
+        },
+        {
+            "type": "Rock",
+            "XCoord": 6,
+            "YCoord": 4,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 5,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 6,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 7,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 8,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 6,
+            "YCoord": 9,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 0,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 1,
+            "occupiedType": [ "Barracks" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 2,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 3,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 4,
+            "occupiedType": [ "Pallissade" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 5,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 6,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 7,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 8,
+            "occupiedType": [ "Forest" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 7,
+            "YCoord": 9,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 0,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 1,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 2,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 3,
+            "occupiedType": [ "Barracks" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 4,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 5,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 6,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 7,
+            "occupiedType": [ "townHouses" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 8,
+            "YCoord": 9,
+            "occupiedType": [ "River" ]
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 0,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 1,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 2,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 3,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 4,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 5,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 6,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 7,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 8,
+            "occupiedType": []
+        },
+        {
+            "type": "Plains",
+            "XCoord": 9,
+            "YCoord": 9,
+            "occupiedType": [ "River" ]
+        }
+    ],
+    "SizeX": 10,
+    "SizeY": 10
+}

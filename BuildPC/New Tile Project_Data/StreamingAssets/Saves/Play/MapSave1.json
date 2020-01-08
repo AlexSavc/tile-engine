@@ -1,0 +1,506 @@
+{
+    "tileData": [
+        {
+            "type": "stairsdown",
+            "XCoord": 0,
+            "YCoord": 0
+        },
+        {
+            "type": "stairsdown",
+            "XCoord": 0,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 0,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 0,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 0,
+            "YCoord": 4
+        },
+        {
+            "type": "stairsdown",
+            "XCoord": 0,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 0,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 0,
+            "YCoord": 7
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 0,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 0,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 4
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 1,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 1,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 1,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 0
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 2,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 2,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 2,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 3,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 3,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 4,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 4,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 5,
+            "YCoord": 7
+        },
+        {
+            "type": "StairsDown",
+            "XCoord": 5,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 5,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 6,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 6,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 7,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 7,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 8,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 8,
+            "YCoord": 9
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 0
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 1
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 2
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 3
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 4
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 5
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 6
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 7
+        },
+        {
+            "type": "SmallTile",
+            "XCoord": 9,
+            "YCoord": 8
+        },
+        {
+            "type": "PlasterWall",
+            "XCoord": 9,
+            "YCoord": 9
+        }
+    ],
+    "SizeX": 10,
+    "SizeY": 10
+}

@@ -1,0 +1,2 @@
+C:\Users\Falangrater\Desktop\SANKO\game\Unity Projects\New Tile Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Falangrater\Desktop\SANKO\game\Unity Projects\New Tile Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
